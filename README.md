@@ -63,9 +63,9 @@ In this repository i included a downgraded version for the steam version of GTA 
 - Set a point on the minimap
 (- Pause the game) See remarks down below
 - Open a cmd and execute the "gta_v_driver_predict.py" python scipt
-'''
+```
 gta_v_driver_predict.py
-'''
+```
 - Pause/Resume(Start) with "Enter" (Maybe that was an unfortunate choice for this key, because GTA uses it to confirm stuff in menus)
 - Once it started it shows the predicted steering angle/throttle and brake
 - Open GTA and you should see the manual transmission mod switch to "Wheel" (Sometimes this needs some fiddling around for it to recognize it as the active input device. The input signal needs to be big enough, so for example big enough left or right steering signals)
