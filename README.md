@@ -23,7 +23,7 @@ I hope I've gathered enough information for this project to be run on your windo
 
 ### Pip Packages
 
-These are the pip packages i extracted from pip freeze...
+These are the pip packages I extracted from pip freeze...
 
 - mss==3.0.1
 - numpy==1.13.1
