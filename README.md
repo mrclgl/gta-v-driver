@@ -35,7 +35,9 @@ These are the pip packages i extracted from pip freeze...
 
 ## Installing
 
-### 
+### Model Setup
+
+- Place the "gta_driver_model" folder with the tensorflow checkpoint in it in the "C:/tmp/" folder
 
 ### GTA V Setup
 
@@ -44,9 +46,22 @@ In this repository i included a downgraded version for the steam version of GTA 
 - Backup your /GTA5.exe;/GTAVLauncher.exe and /update/update.rpf
 - Replace these files in the game directory with the downgraded ones
 - Paste in the mod files from the repository folder /GTA V Mods/Mods/
-- Replace the path in /SpeedOutputPath.txt with the correct path
+- Replace the path in /SpeedOutputPath.txt with the correct path to the model execution directory
+- Set the screen resolution to 800x600 and the aspect ratio to 16:9
+- Enable and setup the steering wheel of the manual transmission mod with the x360ce(vJoy) controller
 
-### 
+## Running it
+
+- Set a point on the minimap
+(- Pause the game) See remarks down below
+- Open a cmd and execute the "gta_v_driver_predict.py" python scipt
+- Pause/Resume(Start) with "Enter" (Maybe that was an unfortunate choice for this key, because GTA uses it to confirm stuff in menus)
+- Once it started it shows the predicted steering angle/throttle and brake
+- Open GTA and you should see the manual transmission mod switch to "Wheel" (Sometimes this needs some fiddling around for it to recognize it as the active input device. The input signal needs to be big enough, so for example big enough left or right steering signals)
+
+Remarks:
+
+- Sometimes on my machine cuDNN decided not to work/initialize while setting up the tensorflow session when I wasn't in the pause screen. (I guess because the game is using too much resources while actually playing)
 
 # Acknowledgments
 
