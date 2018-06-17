@@ -12,7 +12,7 @@ I hope I've gathered enough information for this project to be run on your windo
 - Vjoy
 - X360ce
 - GTA V
-- A good graphics card (it needs to run GTA V and a tensorflow model at the same time. Works with a GTX 1080 on my machine at about 30 predictions per second)
+- A good graphics card (it needs to run GTA V and a tensorflow model at the same time. Works with a GTX 1080 on my machine and runs at  about 30 predictions per second)
 
 ### Versions used
 
