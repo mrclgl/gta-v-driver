@@ -47,14 +47,25 @@ In this repository i included a downgraded version for the steam version of GTA 
 - Replace these files in the game directory with the downgraded ones
 - Paste in the mod files from the repository folder /GTA V Mods/Mods/
 - Replace the path in /SpeedOutputPath.txt with the correct path to the model execution directory
+
+### GTA V Ingame Setup
+
 - Set the screen resolution to 800x600 and the aspect ratio to 16:9
 - Enable and setup the steering wheel of the manual transmission mod with the x360ce(vJoy) controller
+- Switch to Trevor (I trained this model only with the GTA character Trevor so I assume it learned to ignore the orange symbols on the minimap. I havent tested if other characters also work but I'm guessing this might be causing issues)
+- Open Native Trainer with F4 and disable all cars and peds (also vehile godmode won't hurt ^^)
+- Spawn a Obey Tailgater
+- Close Native Trainer with Num0
+- Press 9 (not numpad) to set the camera to the preconfigured hood view
 
 ## Running it
 
 - Set a point on the minimap
 (- Pause the game) See remarks down below
 - Open a cmd and execute the "gta_v_driver_predict.py" python scipt
+'''
+gta_v_driver_predict.py
+'''
 - Pause/Resume(Start) with "Enter" (Maybe that was an unfortunate choice for this key, because GTA uses it to confirm stuff in menus)
 - Once it started it shows the predicted steering angle/throttle and brake
 - Open GTA and you should see the manual transmission mod switch to "Wheel" (Sometimes this needs some fiddling around for it to recognize it as the active input device. The input signal needs to be big enough, so for example big enough left or right steering signals)
