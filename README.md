@@ -64,7 +64,7 @@ In this repository i included a downgraded version for the steam version of GTA 
 (- Pause the game) See remarks down below
 - Open a cmd and execute the "gta_v_driver_predict.py" python scipt
 ```
-gta_v_driver_predict.py
+C:\Path\To\Scripts\Directory> gta_v_driver_predict.py
 ```
 - Pause/Resume(Start) with "Enter" (Maybe that was an unfortunate choice for this key, because GTA uses it to confirm stuff in menus)
 - Once it started it shows the predicted steering angle/throttle and brake
