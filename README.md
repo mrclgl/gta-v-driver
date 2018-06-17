@@ -4,7 +4,9 @@ This is a small project I worked on for about a month. I've set myself the goal 
 
 # Getting Started
 
-## Versions used:
+## Prerequisites
+
+### Versions used:
 
 - Python: 2.0
 - Tensorflow: 1.3.0
