@@ -4,6 +4,8 @@ This is a small project I worked on for about a month. I've set myself the goal 
 
 # Getting Started
 
+This project can only be run on windows because of its python win32core and win32gui dependencies.
+
 ## Prerequisites
 
 ### Versions used:
@@ -12,6 +14,18 @@ This is a small project I worked on for about a month. I've set myself the goal 
 - Tensorflow: 1.3.0
 - CUDNN: 6
 - CUDA Toolkit: 8.0
+
+### Pip Packages
+
+- mss==3.0.1
+- numpy==1.13.1
+- opencv-python==3.2.0.8
+- Pillow==4.2.1
+- pypiwin32==219
+- tensorflow-gpu==1.3.0
+- tensorflow-tensorboard==0.1.6
+- win32core==221.28
+- win32gui==221.5
 
 # Acknowledgments
 
