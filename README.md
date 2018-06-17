@@ -17,6 +17,8 @@ This project can only be run on windows because of its python win32core and win3
 
 ### Pip Packages
 
+These are the pip packages i extracted from pip freeze, i dont know if some are missing because at the time of creating this repository 8 months have passed since i had something to do with the project. ^^
+
 - mss==3.0.1
 - numpy==1.13.1
 - opencv-python==3.2.0.8
