@@ -53,7 +53,7 @@ In this repository i included a downgraded version for the steam version of GTA 
 ### GTA V Ingame Setup
 
 - Set the screen resolution to 800x600 and the aspect ratio to 16:9
-- Enable and setup the steering wheel of the manual transmission mod with the x360ce(vJoy) controller
+- Enable and setup the steering wheel of the manual transmission mod with the x360ce(vJoy) controller (For that you can use the "vjoy_keyboard_control.py" python script which lets you control the vjoy controller with your keyboard in order to calibrate the steering wheel axis)
 
 ## Running it
 
