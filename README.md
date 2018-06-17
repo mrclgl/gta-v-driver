@@ -4,11 +4,11 @@ This is a small project I worked on for about a month. I've set myself the goal 
 
 # Getting Started
 
-This project can only be run on windows because of its python win32core and win32gui dependencies.
+I hope I've gathered enough information for this project to be run on your windows machine. At the time of creating this repository 8 months have passed since i had something to do with the project ^^, whoops should have done that sooner.
 
 ## Prerequisites
 
-### Versions used:
+### Versions used
 
 - Python: 2.0
 - Tensorflow: 1.3.0
@@ -17,7 +17,7 @@ This project can only be run on windows because of its python win32core and win3
 
 ### Pip Packages
 
-These are the pip packages i extracted from pip freeze, i dont know if some are missing because at the time of creating this repository 8 months have passed since i had something to do with the project. ^^
+These are the pip packages i extracted from pip freeze...
 
 - mss==3.0.1
 - numpy==1.13.1
