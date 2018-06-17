@@ -11,6 +11,7 @@ I hope I've gathered enough information for this project to be run on your windo
 - Tensorflow
 - Vjoy
 - X360ce
+- GTA V
 
 ### Versions used
 
