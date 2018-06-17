@@ -13,4 +13,4 @@ This is a small project I worked on for about a month. I've set myself the goal 
 
 # Acknowledgments
 
-- Inspired by sentex's youtube series [Python plays GTA with Tensor Flow](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
+- Inspired by sentex's youtube series "[Python plays GTA with Tensor Flow](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)"
