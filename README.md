@@ -48,6 +48,8 @@ In this repository i included a downgraded version for the steam version of GTA 
 - Paste in the mod files from the repository folder /GTA V Mods/Mods/
 - Replace the path in /SpeedOutputPath.txt with the correct path to the model execution directory
 
+## Running it
+
 ### GTA V Ingame Setup
 
 - Set the screen resolution to 800x600 and the aspect ratio to 16:9
@@ -58,7 +60,7 @@ In this repository i included a downgraded version for the steam version of GTA 
 - Close Native Trainer with Num0
 - Press 9 (not numpad) to set the camera to the preconfigured hood view
 
-## Running it
+### Running The Model
 
 - Set a point on the minimap
 (- Pause the game) See remarks down below
