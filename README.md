@@ -86,7 +86,7 @@ Remarks:
 Even after a model in tensorflow is trained you can still use tensorboard to gain some insight into how/what this model did during training.
 To start tensorboad:
 
-- Navigate to C:/tmp/gta_driver_model
+- Navigate to the "gta_driver_model" folder
 - Open a cmd in that folder and type:
 ```
 tensorboard --logdir=./
