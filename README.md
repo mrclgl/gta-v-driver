@@ -48,12 +48,15 @@ In this repository i included a downgraded version for the steam version of GTA 
 - Paste in the mod files from the repository folder /GTA V Mods/Mods/
 - Replace the path in /SpeedOutputPath.txt with the correct path to the model execution directory
 
-## Running it
-
 ### GTA V Ingame Setup
 
 - Set the screen resolution to 800x600 and the aspect ratio to 16:9
 - Enable and setup the steering wheel of the manual transmission mod with the x360ce(vJoy) controller
+
+## Running it
+
+### GTA V Ingame Setup
+
 - Switch to Trevor (I trained this model only with the GTA character Trevor so I assume it learned to ignore the orange symbols on the minimap. I havent tested if other characters also work but I'm guessing this might be causing issues)
 - Open Native Trainer with F4 and disable all cars and peds (also vehile godmode won't hurt ^^)
 - Spawn a Obey Tailgater
