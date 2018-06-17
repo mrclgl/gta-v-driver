@@ -13,7 +13,7 @@ I hope I've gathered enough information for this project to be run on your windo
 - X360ce
 - GTA V
 
-- A good graphics card (it needs to run GTA V and a tensorflow model)
+- A good graphics card (it needs to run GTA V and a tensorflow model at the same time)
 
 ### Versions used
 
