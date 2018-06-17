@@ -81,6 +81,18 @@ Remarks:
 
 - Sometimes on my machine cuDNN decided not to work/initialize while setting up the tensorflow session when I wasn't in the pause screen. (I guess because the game is using too much resources while actually playing)
 
+## Tensorboard
+
+Even after a model in tensorflow is trained you can still use tensorboard to gain some insight into how/what this model did during training.
+To start tensorboad:
+
+- Navigate to C:/tmp/gta_driver_model
+- Open a cmd in that folder and type:
+```
+tensorboard --logdir=./
+```
+Now you can open the adress that tensorboard tells you in a web browser and examine the loss curve, some convolutional layers during training and the model graph.
+
 # Acknowledgments
 
 - Inspired by sentex's youtube series "[Python plays GTA with Tensor Flow](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)"
