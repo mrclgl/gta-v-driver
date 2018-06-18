@@ -31,6 +31,7 @@ These are the pip packages I extracted from pip freeze...
 - numpy==1.13.1
 - opencv-python==3.2.0.8
 - Pillow==4.2.1
+- pygame==1.9.3
 - pypiwin32==219
 - tensorflow-gpu==1.3.0
 - tensorflow-tensorboard==0.1.6
