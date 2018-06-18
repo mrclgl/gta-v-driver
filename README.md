@@ -39,14 +39,12 @@ These are the pip packages I extracted from pip freeze...
 
 ### Model Setup
 
-- Place the "gta_driver_model" folder with the tensorflow checkpoint in it in the "C:/tmp/" folder
+- Place the unzipped ["gta_driver_model"](http://www.mediafire.com/file/7j3857ck58d8wwt/gta_driver_model.zip/file) folder with the tensorflow checkpoint in it in the "C:/tmp/" folder
 
 ### GTA V Setup
 
-In this repository i included a downgraded version for the steam version of GTA V.
-
 - Backup your /GTA5.exe;/GTAVLauncher.exe and /update/update.rpf
-- Replace these files in the game directory with the downgraded ones
+- Replace these files in the game directory with the [downgraded files](http://www.mediafire.com/file/y1mkold8ydl71p9/downgrade_1032_steam.zip/file) to make ScriptHookV work
 - Paste in the mod files from the repository folder /GTA V Mods/Mods/
 - Replace the path in /SpeedOutputPath.txt with the correct path to the model execution directory
 
