@@ -75,7 +75,7 @@ Axis mapping for Vjoy:
 ### Running The Model
 
 - Set a point on the minimap
-(- Pause the game) See remarks down below
+- (Pause the game) See remarks down below
 - Open a cmd and execute the "gta_v_driver_predict.py" python scipt
 ```
 gta_v_driver_predict.py
