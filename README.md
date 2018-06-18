@@ -48,7 +48,7 @@ These are the pip packages I extracted from pip freeze...
 - Paste in the mod files from the repository folder /GTA V Mods/Mods/
 - Replace the path in /SpeedOutputPath.txt with the correct path to the model execution directory
 
-### x360ce Controller Axis Mapping
+### x360ce Controller Axis Mapping For vJoy
 
 ![x360ce setup image](https://github.com/Check2016/gta-v-driver/blob/master/x360ce_setup.png)
 
