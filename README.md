@@ -2,6 +2,8 @@
 
 This is a small project I worked on for about a month. I've set myself the goal to create a self-driving car in GTA V with tensorflow that follows the ingame minimap. The model takes in a 640x160 RGB image as well as the current speed of the car and outputs the steering angle and the amount of throttle and brake. To see this thing in action [check out this youtube video](https://www.youtube.com/watch?v=7qjLxvY-khA&t=93s).
 
+![Title Image](https://github.com/Check2016/gta-v-driver/blob/master/readme_img.png)
+
 # Getting Started
 
 I hope I've gathered enough information for this project to be run on your windows machine. At the time of creating this repository 8 months have passed since i had something to do with the project ^^, whoops should have done that sooner. If you would like to see this running on your machine and there is anything I forgot to mention that prevents you from running this, please let me know and I'll add it here.
