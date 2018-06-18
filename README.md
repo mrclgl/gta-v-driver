@@ -50,7 +50,7 @@ These are the pip packages I extracted from pip freeze...
 
 ### x360ce Setup
 
-Axis Mapping For vJoy:
+Axis mapping for Vjoy:
 
 ![x360ce setup image](https://github.com/Check2016/gta-v-driver/blob/master/x360ce_setup.png)
 
