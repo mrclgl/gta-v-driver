@@ -1,0 +1,17 @@
+[2017-11-03 18:29:22] [INFO] Log file created (GTAVLauncherBypass.asi, build Jun 14 2017 21:08:01, (C) Unknown Modder)
+======================================================================================================================
+[2017-11-03 18:29:22] [INFO] Detected Windows 10 Pro (10.0.15063.674)
+[2017-11-03 18:29:22] [INFO] Using game version 1.0.1032.1
+[2017-11-03 18:29:22] [INIT] Successfully retrieved MODULEINFO: D:\Spiele\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe => 0x00007FF7C01D0000 (0x047F5400)
+[2017-11-03 18:29:22] [INIT] Creating thread...
+[2017-11-03 18:29:22] [INIT] Created thread, id 0x4D68
+[2017-11-03 18:29:22] [INIT] Reading settings...
+[2017-11-03 18:29:22] [INIT] bypass_launcher_check = true
+[2017-11-03 18:29:22] [INIT] bypass_intro_video = true
+[2017-11-03 18:29:22] [INIT] bypass_legal_message = true
+[2017-11-03 18:29:22] [INFO] IsLauncherPresent call removed!
+[2017-11-03 18:29:22] [INFO] Steam version detected, patching Steam check...
+[2017-11-03 18:29:22] [INFO] Steam check removed!
+[2017-11-03 18:29:22] [INFO] Intro video skipped!
+[2017-11-03 18:29:22] [INFO] Legal message skipped!
+[2017-11-03 18:29:22] [INFO] Freeing library and exiting thread...

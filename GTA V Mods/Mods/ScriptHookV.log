@@ -1,0 +1,48 @@
+// GTA V SCRIPT HOOK (build Jun 22 2017, v1.0.1103.2)
+//     (C) Alexander Blade 2015-2017
+[18:29:22] INIT: Started
+[18:29:22] INIT: Success, game version is VER_1_0_1032_1_STEAM
+[18:29:22] INIT: Registering script 'Gears.asi' (0x00007FF8EE652550)
+[18:29:22] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FF90BDA1380)
+[18:29:22] INIT: Registering script 'SpeedOutput.asi' (0x00007FF8F0EC22E0)
+[18:29:22] INIT: Registering script 'TrainerV.asi' (0x00007FF8C414CDB0)
+[18:29:27] INIT: Pool 1 extended
+[18:29:27] INIT: Pool 2 extended
+[18:29:27] INIT: Pool 3 extended
+[18:29:27] INIT: Pool 4 extended
+[18:29:33] INIT: GtaThread collection size 188
+[18:29:33] INIT: wnd proc 0x00000000FFFF08E1
+[18:29:33] INIT: IDXGISwapChain 0x00007FF915290AA0 (0x00007FF915233610)
+[18:29:33] INIT: IDXGISwapChain set
+[18:29:34] INIT: DX init started
+[18:29:34] INIT: DX feature level B000
+[18:29:34] INIT: DX init succeeded
+[18:31:31] CORE: Requesting thread creation
+[18:31:31] CORE: Creating threads
+[18:31:33] CORE: Started control thread, id 28 active 1
+[18:31:33] CORE: Started thread 'Gears.asi' (0x00007FF8EE652550), id 29 active 1
+[18:31:33] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FF90BDA1380), id 30 active 1
+[18:31:33] CORE: Started thread 'SpeedOutput.asi' (0x00007FF8F0EC22E0), id 31 active 1
+[18:31:33] CORE: Started thread 'TrainerV.asi' (0x00007FF8C414CDB0), id 32 active 1
+[18:31:33] CORE: Launching main() for 'Gears.asi' (0x00007FF8EE652550), id 29
+[18:31:33] CORE: Creating texture 'D:\Spiele\Steam\steamapps\common\Grand Theft Auto V\ManualTransmission\texture_wheel.png', id 0
+[18:31:33] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FF90BDA1380), id 30
+[18:31:33] CORE: Launching main() for 'SpeedOutput.asi' (0x00007FF8F0EC22E0), id 31
+[18:31:33] CORE: Launching main() for 'TrainerV.asi' (0x00007FF8C414CDB0), id 32
+[18:32:12] CORE: Cleaning threads
+[18:32:12] CORE: Creating threads
+[18:32:12] CORE: Cleaning texture, id 0
+[18:32:13] CORE: Started control thread, id 113 active 1
+[18:32:13] CORE: Started thread 'Gears.asi' (0x00007FF8EE652550), id 114 active 1
+[18:32:13] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FF90BDA1380), id 115 active 1
+[18:32:13] CORE: Started thread 'SpeedOutput.asi' (0x00007FF8F0EC22E0), id 116 active 1
+[18:32:13] CORE: Started thread 'TrainerV.asi' (0x00007FF8C414CDB0), id 117 active 1
+[18:32:13] CORE: Launching main() for 'Gears.asi' (0x00007FF8EE652550), id 114
+[18:32:13] CORE: Creating texture 'D:\Spiele\Steam\steamapps\common\Grand Theft Auto V\ManualTransmission\texture_wheel.png', id 1
+[18:32:13] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FF90BDA1380), id 115
+[18:32:13] CORE: Launching main() for 'SpeedOutput.asi' (0x00007FF8F0EC22E0), id 116
+[18:32:13] CORE: Launching main() for 'TrainerV.asi' (0x00007FF8C414CDB0), id 117
+[19:06:28] UNINIT: Unregistering script 'TrainerV.asi'
+[19:06:28] UNINIT: Unregistering script 'SpeedOutput.asi'
+[19:06:28] UNINIT: Unregistering script 'ScriptHookVDotNet.asi'
+[19:06:28] UNINIT: Unregistering script 'Gears.asi'
