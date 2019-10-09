@@ -59,7 +59,7 @@ Axis mapping for Vjoy:
 
 ### GTA V Ingame Setup
 
-- Set the screen resolution to 800x600 and the aspect ratio to 16:9
+- Set the screen resolution to 800x600, the aspect ratio to 16:9 and **enable fullscreen-mode**
 - Enable and setup the steering wheel of the manual transmission mod with the x360ce(vJoy) controller (For that you can use the "vjoy_keyboard_control.py" python script which lets you control the vjoy controller with your keyboard in order to calibrate the steering wheel axis)
 
 ## Running it
